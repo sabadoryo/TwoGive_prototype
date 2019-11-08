@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class TwogiveConfig(AppConfig):
+class TwoGiveConfig(AppConfig):
     name = 'TwoGive'
